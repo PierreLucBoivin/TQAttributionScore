@@ -3,6 +3,9 @@ uuid = "c2cddb46-7cc8-43b3-b3d4-713403f064e0"
 authors = ["Pierre-Luc Boivin"]
 version = "0.1.0"
 
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
 [compat]
 julia = "1"
 

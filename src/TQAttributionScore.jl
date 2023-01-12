@@ -1,5 +1,7 @@
 module TQAttributionScore
-
+using Revise
 # Write your package code here.
-include("code.jl")
+include("attribution_score.jl")
+
+export score
 end
