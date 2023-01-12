@@ -1,0 +1,13 @@
+name = "TQAttributionScore"
+uuid = "c2cddb46-7cc8-43b3-b3d4-713403f064e0"
+authors = ["Pierre-Luc Boivin"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
