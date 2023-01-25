@@ -6,5 +6,5 @@
 [![Coverage](https://coveralls.io/repos/github/PierreLucBoivin/TQAttributionScore.jl/badge.svg?branch=main)](https://coveralls.io/github/PierreLucBoivin/TQAttributionScore.jl?branch=main) -->
 [![Continuous Integration (Unit Tests)][ci-unit-img]][ci-unit-url] 
 
-ci-unit-img: https://github.com/PierreLucBoivin/TQAttributionScore/actions/workflows/CI.yml/badge.svg?branch=main "Continuous Integration (Unit Tests)"
-ci-unit-url: https://github.com/PierreLucBoivin/TQAttributionScore/actions/workflows/CI.yml
+[ci-unit-img]: https://github.com/PierreLucBoivin/TQAttributionScore/actions/workflows/CI.yml/badge.svg?branch=main "Continuous Integration (Unit Tests)"
+[ci-unit-url]: https://github.com/PierreLucBoivin/TQAttributionScore/actions/workflows/CI.yml
