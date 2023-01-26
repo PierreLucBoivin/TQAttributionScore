@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+
 module TQAttributionScore
 using Revise
 # Write your package code here.
